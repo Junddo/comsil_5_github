@@ -2,7 +2,7 @@
 #define LINKED_LIST_H
 #include <iostream>
 using namespace std;
-
+//Ä¿¹Ô¿ë
 template <typename T> 
 class Node{
 public:
